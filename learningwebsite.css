@@ -1,0 +1,84 @@
+.container1{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+background-repeat: no-repeat;
+background-image: url(https://eletiofe.com/wp-content/uploads/2022/11/334730-all-the-free-resources-you-can-find-at-your-library.jpg);
+background-size: 1000px;
+}
+.form{
+    background-color: rgb(0, 110, 255);
+    padding: 20px;
+    margin: 0px;
+    width: 400px;
+    height: 500px;
+    border-radius: 5px;
+}
+.hh{
+    margin-top: 200px;
+    color: white;
+    text-shadow: 3px 3px  10px black;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    margin: 0px 71px;
+    padding: 8px 62px;
+    border: 1px solid rgb(231, 208, 0);
+    border-radius: 9px;
+    background-color: rgb(231, 208, 0);
+}
+.container2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.col-md-3{
+   
+    width: 200px;
+    height: 200px;
+   border-radius: 5px;
+    margin-top: 30px;
+
+}
+.col-md-3 img{
+    width: 200px;
+    height: 200px;
+
+}
+.container3{
+    background-color: rgb(0, 110, 255);
+    width: 100%;
+    height: 500px;
+    margin-bottom: 70px;
+}
+.container3 img{
+    width: 300px;
+    height: 500px;
+}
+.text-white{
+    margin-top: 100px;
+}
+.REQUEST{
+    background-color: rgb(255, 217, 0);
+    margin: 0px 0px;
+    padding: 8px 62px;
+    border: 1px solid rgb(255, 217, 0);
+    border-radius: 4px;
+}
+.col-md-6 h4{
+    margin: 0px 50px;
+
+}
+.container4{
+    margin-bottom: 70px;
+
+}
+.col-md-6 h3{
+  
+    color: rgb(0, 110, 255);
+    margin-bottom: 40px;
+
+}
